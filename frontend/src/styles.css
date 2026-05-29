@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; background:#f4f4f4; }
+.container { max-width:700px; margin:40px auto; background:white; padding:20px; border-radius:8px }
+.form { display:flex; gap:8px; margin-bottom:16px }
+.form input { padding:8px; flex:1 }
+.users { list-style:none; padding:0 }
+.user { display:flex; justify-content:space-between; align-items:center; padding:8px 0; border-bottom:1px solid #eee }
+.actions button { margin-left:8px }
